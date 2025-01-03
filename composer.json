@@ -1,0 +1,15 @@
+{
+    "name": "shimi/php-starter",
+    "autoload": {
+        "psr-4": {
+            "Shimi\\PhpStarter\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Shimouna-14",
+            "email": "chimene.ndeby@gmail.com"
+        }
+    ],
+    "require": {}
+}
